@@ -2,7 +2,8 @@
 This guide is written starting with a device out of the box not set up.
 
 As the dev say " This is for the 3rd gen Fire TV Stick (sheldonp) and Fire TV Stick Lite (sheldon)."
-All the credits goes to the devs, this is only a guide because I've spent a lot of time fixing all the issues and I hope that someone will find this useful.
+
+# All the credits goes to the devs, this is only a guide because I've spent a lot of time fixing all the issues and I hope that someone will find this useful.
 
 Devs thread links:
 -  https://forum.xda-developers.com/t/unlock-root-twrp-unbrick-fire-tv-stick-3-and-fire-tv-stick-lite-sheldon-p.4410297/ (exploit and twrp)
