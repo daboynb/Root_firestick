@@ -9,6 +9,11 @@ Devs thread links:
 -  https://github.com/0815hoffi/FireTV-Root-Settings/releases/tag/Latest (settings menu)
 -  https://github.com/topjohnwu/Magisk (magisk)
 
+The kamakiri.zip from xda fails, this one instead is fixed by commenting those lines (thanks to nicedog user on xda):
+
+ - if rpmb != b"\x00" * 0x100:
+ - dev.reboot()
+ - raise RuntimeError("downgrade failure, giving up")
 
 # Flash twrp
 
