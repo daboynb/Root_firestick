@@ -68,7 +68,7 @@ The kamakiri.zip from xda fails, this one instead is fixed by commenting those l
 # Extras
 
 
-23) Mouse enabler "adb install mouse_toggle.apk" for those programs that are not designed for TV, like adway where you are unable to use with the remote without a cursor (If it's blocked on starting, enable and disable adb and unknow sources)
+23) Mouse enabler "adb install mouse_toggle.apk" for those programs that are not designed for TV, like adway where you are unable to use with the remote without a cursor (If it's blocked on starting, disable and enable adb and unknow sources)
 24) Disable ota:
     - adb shell pm disable-user --user 0 com.amazon.device.software.ota.override
     - adb shell pm disable-user --user 0 com.amazon.device.software.ota
