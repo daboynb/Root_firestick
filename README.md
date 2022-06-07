@@ -36,7 +36,7 @@ The kamakiri.zip from xda fails, this one instead is fixed by commenting those l
 
 8) When it will boot it will ask for a network to connect, now we have two solutions:
     - [The one I used] Having a rooted phone install adaway, and block into the host file those domains (amzdigitaldownloads.edgesuite.net - softwareupdates.amazon.com - updates.amazon.com). Now enable tethering and use that connection. Goto point 9.
-    - Setting up the connection and turn of the router while is searching for updates (a little risky if it you are not fast enough)
+    - Setting up the connection and turn off the router while is searching for updates (a little risky if it you are not fast enough)
 9) Now will appear a screen that will say "Unable to check for updates, retry or reboot the stick"
 10) Press and hold the BACK and MENU buttons simultaniously on the remote for a few seconds until the VoiceView accessibility feature turns on, then once the VoiceView feature is on the screen, press the BACK button on the remote to exit VoiceView.
 11) Now it will ask for an account, log-in fastest as you can and disable internet if you have not followed the adaway method! Goto #Extras before enable it.
