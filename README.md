@@ -1,4 +1,8 @@
 # root_firestick
+
+Update --》 VM190 or higher models are patched, kamari will not work. Thanks to bloom11 for the tip.
+
+
 This guide is written for a deice that has note yet been set up.
 
 As the devs say: " This is for the 3rd gen Fire TV Stick (sheldonp) and Fire TV Stick Lite (sheldon)."
