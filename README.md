@@ -2,7 +2,7 @@
 
 Require FireOS < 7.2.7.3.
 
-This guide is written for a deice that has note yet been set up.
+This guide is written for a deice that has not yet been set up.
 
 As the devs say: " This is for the 3rd gen Fire TV Stick (sheldonp) and Fire TV Stick Lite (sheldon)."
 
